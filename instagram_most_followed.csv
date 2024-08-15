@@ -1,0 +1,101 @@
+RANK,BRAND,CATEGORIES 1,CATEGORIES 2,FOLLOWERS(Millions),ER,iPOSTS ON HASHTAG,MEDIA POSTED
+1,Selena Gomez,celebrities,musicians,105.4,2.62%æ(1342),14.5Mæ(48),2135
+2,Taylor Swift,celebrities,musicians,95.2,1.96%æ(2040),10.5Mæ(66),2669
+3,Ariana Grande,celebrities,musicians,92.3,1.43%æ(2759),16.9Mæ(41),824
+4,Beyonce,celebrities,musicians,90.6,2.53%æ(1427),9.2Mæ(70),1897
+5,Kim Kardashian West,celebrities,tv,89.3,1.39%æ(2812),5.1Mæ(130),550
+6,Cristiano Ronaldo,celebrities,athletes,85.1,2.62%æ(1340),3.6Mæ(176),1612
+7,Kylie,celebrities,models,81.8,1.89%æ(2127),6.2Mæ(103),302
+8,Justin Bieber,celebrities,musicians,77.9,1.66%æ(2408),26.2Mæ(19),501
+9,therock,celebrities,athletes,73.3,1.24%æ(3043),1.1Mæ(450),926
+10,Kendall,celebrities,models,70.9,1.78%æ(2272),3.4Mæ(183),849
+11,Nicki Minaj,celebrities,musicians,70.8,0.93%æ(3525),3.7Mæ(172),416
+12,nike,fashion,sport,68.2,1.76%æ(2288),50.6Mæ(5),2832
+13,National Geographic,media,nature,65.8,1.14%æ(3184),5.3Mæ(123),31
+14,Nj,celebrities,athletes,64,1.52%æ(2617),3.3Mæ(188),555
+15,Leo Messi,celebrities,athletes,61.9,4.27%æ(481),5.1Mæ(134),4909
+16,Khloe,celebrities,tv,60.2,2.16%æ(1799),1.4Mæ(363),702
+17,KATY PERRY,celebrities,musicians,59.6,1.50%æ(2657),3.3Mæ(189),3846
+18,Miley Cyrus,celebrities,musicians,57.8,1.41%æ(2784),6Mæ(106),200
+19,Jennifer Lopez,celebrities,musicians,55.1,1.23%æ(3052),1.2Mæ(428),1647
+20,Demi Lovato,celebrities,musicians,51.3,2.65%æ(1320),6Mæ(108),1782
+21,Kourtney Kardashian,celebrities,tv,50.7,1.24%æ(3030),1Mæ(479),746
+22,Victoria's Secret,fashion,clothing,49.1,1.03%æ(3358),3.5Mæ(178),390
+23,badgalriri,celebrities,musicians,47.3,1.53%æ(2606),1.1Mæ(447),525
+24,Kevin Hart,celebrities,actors,45.9,0.68%æ(3906),805.8kæ(551),457
+25,FC Barcelona,sport,football,43.3,1.78%æ(2271),2.9Mæ(212),68
+26,Real Madrid C.F.,sport,football,41.8,2.02%æ(1975),6.6Mæ(99),2560
+27,Justin Timberlake,celebrities,musicians,39.6,1.42%æ(2767),1.2Mæ(434),3888
+28,Ellen,celebrities,tv,38.2,1.43%æ(2763),236.9kæ(1114),399
+29,Cara Delevingne,celebrities,models,36.2,1.55%æ(2584),1.5Mæ(346),654
+30,Zendaya,celebrities,musicians,36,3.02%æ(1032),511.4kæ(726),732
+31,9gag,entertainment,,35,2.42%æ(1525),1.5Mæ(341),37
+32,David Beckham,celebrities,athletes,31.7,3.23%æ(919),430.1kæ(803),3955
+33,champagnepapi,celebrities,musicians,31.1,1.33%æ(2900),306.9kæ(966),602
+34,Vin Diesel,celebrities,actors,30.2,1.76%æ(2299),394kæ(844),2599
+35,Shakira,celebrities,musicians,28.4,2.06%æ(1921),771kæ(572),3369
+36,James RodrÕguez,celebrities,athletes,27.8,2.44%æ(1501),537.1kæ(707),3454
+37,Gigi Hadid,celebrities,models,27.2,1.63%æ(2473),1.6Mæ(338),1024
+38,LeBron James,celebrities,athletes,27,1.45%æ(2716),2.5Mæ(242),1981
+39,Gareth Bale,celebrities,athletes,25.3,2.88%æ(1136),399.2kæ(832),3838
+40,Nike Football (Soccer),fashion,sport,25,3.20%æ(937),471kæ(761),1923
+41,Zac Efron,celebrities,actors,23.8,4.95%æ(343),508.5kæ(729),4339
+42,Vanessa Hudgens,celebrities,actors,22.7,2.63%æ(1337),301.9kæ(979),1374
+43,IAmZlatan,celebrities,athletes,21.7,3.52%æ(754),78kæ(1737),4476
+44,Emma Watson,celebrities,actors,21.4,7.29%æ(107),1Mæ(466),5340
+45,"xoxo, Joanne",celebrities,musicians,20.4,1.33%æ(2899),3.9Mæ(167),980
+46,NBA,sport,basketball,20.1,1.13%æ(3211),8.7Mæ(73),9
+47,harrystyles,celebrities,musicians,19.4,12.39%æ(27),33.4Mæ(15),4235
+48,Scott Disick,celebrities,tv,18.7,1.59%æ(2529),220.4kæ(1158),3062
+49,Luis Suarez,celebrities,athletes,18.7,2.50%æ(1453),10.5kæ(2939),4922
+50,Niall Horan,celebrities,musicians,18.3,7.59%æ(92),28.2Mæ(17),3008
+51,NASA,other,science,18.2,2.95%æ(1085),1.4Mæ(369),1423
+52,H&M,fashion,retail,18.1,1.00%æ(3410),5.4Mæ(121),739
+53,Bruna Marquezine _,celebrities,models,17.7,1.21%æ(3097),53.1kæ(2002),1055
+54,One Direction,celebrities,musicians,17.2,10.00%æ(45),51.2Mæ(4),3189
+55,CHANEL,fashion,luxury,17.1,0.89%æ(3594),46.5Mæ(8),3621
+56,Shawn Mendes,celebrities,musicians,16.9,5.43%æ(254),2.2Mæ(260),1830
+57,Lucy Hale,celebrities,actors,16.6,3.28%æ(885),743.2kæ(576),743
+58,euanitta,celebrities,musicians,16.6,1.45%æ(2731),447.7kæ(786),294
+59,Karim Benzema,celebrities,athletes,16.5,2.59%æ(1373),660.3kæ(632),2924
+60,Marina Ruy Barbosa,celebrities,actors,16.4,1.02%æ(3378),68.5kæ(1838),1169
+61,adidas Originals,fashion,sport,16.3,1.22%æ(3085),3Mæ(199),700
+62,David Luiz,celebrities,athletes,15.4,1.48%æ(2682),260.6kæ(1068),1714
+63,Andres Iniesta,celebrities,athletes,15.3,1.87%æ(2149),432.6kæ(802),4276
+64,Ashley Benson,celebrities,actors,15.2,3.31%æ(865),728.6kæ(584),453
+65,ZARA Official,fashion,retail,15.2,0.89%æ(3599),13kæ(2812),2134
+66,Manchester United,sport,football,15.1,2.33%æ(1613),902.9kæ(517),232
+67,Shay Mitchell,celebrities,actors,15,3.97%æ(572),691.6kæ(613),385
+68,Marcelo Vieira Jr.,celebrities,athletes,14.7,2.04%æ(1940),601.5kæ(666),2013
+69,BELLA,celebrities,media,14.6,2.45%æ(1496),296.5kæ(993),431
+70,Ciara,celebrities,musicians,14.6,1.55%æ(2587),497.3kæ(738),781
+71,Britney Spears,celebrities,musicians,14.5,1.29%æ(2942),1.7Mæ(322),1733
+72,National Geographic Travel,media,,14.3,1.52%æ(2627),5.3Mæ(122),194
+73,Louis Vuitton Official,fashion,luxury,14.2,0.74%æ(3829),24.3Mæ(26),1545
+74,snoopdogg,celebrities,musicians,14,0.46%æ(4159),859kæ(530),3
+75,Floyd Mayweather,celebrities,athletes,14,1.50%æ(2659),323.4kæ(941),3856
+76,Vogue,media,,13.7,1.08%æ(3293),446.7kæ(787),776
+77,Sergio Ramos,celebrities,athletes,13.7,3.12%æ(982),517.6kæ(718),3639
+78,Tata Werneck,celebrities,tv,13.6,0.83%æ(3690),25.4kæ(2420),1177
+79,Daddy Yankee,celebrities,musicians,13.3,0.61%æ(3991),313.7kæ(958),667
+80,Victoria Beckham,celebrities,entrepreneurs,13.3,1.45%æ(2728),542.5kæ(703),1784
+81,Dior Official,fashion,luxury,13.1,0.74%æ(3826),34.4Mæ(11),1356
+82,M‡A‡C Cosmetics,beauty,retail,13,0.70%æ(3872),7.6Mæ(87),63
+83,Channing Tatum,celebrities,actors,13,4.72%æ(370),485kæ(747),3207
+84,Robert Downey Jr.,celebrities,tv,12.9,3.65%æ(693),818.1kæ(544),5050
+85,elliegoulding,celebrities,musicians,12.9,1.75%æ(2300),648.9kæ(638),551
+86,50 Cent,celebrities,musicians,12.9,0.89%æ(3588),688.5kæ(615),1836
+87,Starbucks Coffee,beverages,,12.6,3.19%æ(944),25.9Mæ(22),2054
+88,Anastasia Beverly Hills,beauty,,12.3,1.05%æ(3325),7.7Mæ(85),67
+89,Luan Santana,celebrities,musicians,12.2,1.64%æ(2439),590.7kæ(671),876
+90,Chloe Grace Moretz,celebrities,actors,12.2,4.10%æ(535),47.6kæ(2071),1020
+91,adidas,fashion,sport,12.1,1.52%æ(2619),26.3Mæ(18),2496
+92,forever21,fashion,,12.1,1.68%æ(2388),3.9Mæ(164),496
+93,Gucci,fashion,luxury,12,0.55%æ(4073),34.2Mæ(12),899
+94,Louis Tomlinson,celebrities,musicians,11.8,11.42%æ(32),25.5Mæ(23),5008
+95,G-DRAGON,celebrities,fashion,11.8,4.45%æ(422),4.6Mæ(146),1366
+96,DanialvesD2 My Twitter,celebrities,athletes,11.7,1.62%æ(2477),122.4kæ(1486),1508
+97,Dolce & Gabbana,fashion,luxury,11.7,0.48%æ(4142),6.1Mæ(105),471
+98,Tyga / T-Raww,celebrities,musicians,11.6,1.31%æ(2922),1.2Mæ(421),948
+99,Paul Labile Pogba,celebrities,athletes,11.5,6.11%æ(170),77.6kæ(1745),4219
+100,Barack Obama,celebrities,political,11.5,3.37%æ(826),2.5Mæ(240),4753
